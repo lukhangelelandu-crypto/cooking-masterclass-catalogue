@@ -10,4 +10,8 @@ A Vue.js single-page app showcasing cooking courses with wishlist functionality.
 - Responsive design
 
 ## Installation
-```bash
+```bash 
+git clone https://github.com/lukhangelelandu-crypto/cooking-masterclass-catalogue.git
+cd cooking-masterclass-catalogue
+npm install
+npm run dev
