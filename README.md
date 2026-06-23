@@ -9,6 +9,10 @@ A Vue.js single-page app showcasing cooking courses with wishlist functionality.
 - "Sold Out" indication
 - Responsive design
 
+## Screenshot 
+
+![Cooking Masterclass Catalogue](./public/Screenshot%202026-06-23%20155148.png)
+
 ## Installation
 ```bash 
 git clone https://github.com/lukhangelelandu-crypto/cooking-masterclass-catalogue.git
